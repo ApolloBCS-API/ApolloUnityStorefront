@@ -1,0 +1,20 @@
+﻿[
+    {
+		"Id":30,
+		"LivesValue":50,
+		"BonusValue":10,
+		"Price":0.99,
+    },
+    {
+		"Id":31,
+		"LivesValue":150,
+		"BonusValue":20,
+		"Price":2.99,
+    },
+    {
+        "Id":32,
+		"LivesValue":500,
+		"BonusValue":50,
+		"Price":9.99,
+    }
+]

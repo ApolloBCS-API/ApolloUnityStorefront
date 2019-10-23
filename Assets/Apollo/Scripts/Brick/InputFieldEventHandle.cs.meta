@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 63fa69149bca64e2fb9dbcfb7ce5a0a4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - normalSpriteIcon: {fileID: 21300000, guid: 3c952f14447b045fb840aa35be58144c, type: 3}
+  - focusSpriteIcon: {fileID: 21300000, guid: d4a6aeb37b2b742fc8682fa9bd740ae6, type: 3}
+  - errorSpriteIcon: {fileID: 21300000, guid: 3e9f99ec8e50a412b9125add0b69a689, type: 3}
+  - normalSpriteField: {fileID: 21300000, guid: 3c952f14447b045fb840aa35be58144c,
+      type: 3}
+  - errorSpriteField: {fileID: 21300000, guid: 3e9f99ec8e50a412b9125add0b69a689, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,50 @@
+﻿{
+    "formTitle":{
+	"EN":"English title",
+	"JP":"Japan",
+	"CN":"Chinese",
+	"DE":"European",
+	"SP":"Spain",
+	"IT":"Italy"
+    },
+    "formContent":{
+	"EN":"English 2",
+	"JP":"Japan",
+    "CN":"Chinese",
+    "DE":"European",
+    "SP":"Spain",
+    "IT":"Italy"
+    },
+    "4":{
+	"EN":"English 3",
+	"JP":"Japan",
+    "CN":"Chinese",
+    "DE":"European",
+    "SP":"Spain",
+    "IT":"Italy"
+    },
+    "5":{
+	"EN":"English 4",
+	"JP":"Japan",
+    "CN":"Chinese",
+    "DE":"European",
+    "SP":"Spain",
+    "IT":"Italy"
+    },
+    "hell year":{
+	"EN":"English 5",
+	"JP":"Japan",
+    "CN":"Chinese",
+    "DE":"European",
+    "SP":"Spain",
+    "IT":"Italy"
+    },
+    "hell no":{
+	"EN":"English 6",
+	"JP":"Japan",
+    "CN":"Chinese",
+    "DE":"European",
+    "SP":"Spain",
+    "IT":"Italy"
+    }
+}
